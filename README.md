@@ -3,7 +3,7 @@
 ## Business Understanding
 Consumer finance companies face challenges in lending due to applicants with insufficient credit histories, leading to potential defaults. The goal is to analyze loan application data to identify patterns that can help predict the likelihood of loan repayment. 
 
-Two primary risks affect loan decisions:
+- Two primary risks affect loan decisions:
 1. Rejecting creditworthy applicants may lead to missed business opportunities.
 2. Approving applicants who are likely to default results in financial losses.
 
